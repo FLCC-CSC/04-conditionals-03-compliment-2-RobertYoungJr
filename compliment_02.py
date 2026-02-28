@@ -1,8 +1,8 @@
 # FILE NAME - compliment_02.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Robert Young
+# DATE: 2/28/2026
+# BRIEF DESCRIPTION: Application #2 of Compliments. 
 
 
 
@@ -14,15 +14,16 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
-
-
-
-
-
-
-
-
-
+def main():
+    def compliment_2():
+        input2 = input("Would you like a compliment? ")
+        if input2 == "yes":
+            print("You have wonderful eyes.")
+        else:
+            print("No compliment for you!")
+        print("Thank you for playing.")   
+    compliment_2()
+main()
 
 ########### END YER CODE ABOVE THIS LINE ###########
 
@@ -71,7 +72,7 @@ Thank you for playing.
 
 1. Did you struggle with this lab (YES/NO)?
 
-
+NO
 
 
 
